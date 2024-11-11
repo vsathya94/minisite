@@ -1,15 +1,17 @@
 ---
-name: Raphaël Chelly
+name: Sai Satya Narayana V
 avatar: /static/images/avatar.jpg
-occupation: Marketing Project Manager
-company: Octopia
-email: hi@raphaelchelly.com
-twitter: https://twitter.com/raphael_chelly
-linkedin: https://www.linkedin.com/raphael.chelly
-github: https://github.com/raphaelchelly
+occupation: Program Officer - Rural Livelihoods
+company: Tata Trusts
+email: snarayana@tatatrusts.org
+twitter: https://x.com/kaleidoscope_hq
+linkedin: https://www.linkedin.com/in/saisatyanarayanav/
+github: https://github.com/vsathya94
 ---
 
-Graduated from a **Master in Management** at Excelia Business School, I am passionate about **digital and new technologies.** Creative, proactive, versatile and with a good understanding of digital and marketing, **I am confident in my ability to tackle new missions.** Organized and rigorous, I possess a range of key business and interpersonal skills that I have developed through my professional experiences.
+I'm Satya, a results-driven professional with 8+ years of experience in program management and rural development. My learnings have been in the areas of agri-value-chain development, partnerships, and empowering rural women through e-commerce.
+
+My educational background includes a Master's in Public Administration and an MBA in Finance from Sri Sathya Sai Institute of Higher Learning, Andhra Pradesh. I'm interested in learning about applications of blockchain in the development sector and I play the saxophone in a band named Rhythmic Energy.
 
 - [💼 Experience](#experience)
 - [🧑🏻‍💻 Side Project](#side-project)
