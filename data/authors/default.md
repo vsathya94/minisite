@@ -21,45 +21,44 @@ My educational background includes a Master's in Public Administration and an MB
 
 ## Experience
 
-### Marketing Project Manager @**[Octopia](https://octopia.com)**
+### Program Officer @**[Tata Trusts](https://www.tatatrusts.org/)**
 
-`Oct 2021 - Today`
+`Oct 2024 - Today`
 
-Responsible for **the acquisition and marketing development of the Octopia Products offer** in order to develop the activity and e-commerce sales in France and internationally.
+Responsible for **the designing of programs and monitoring of grants** related to community institutions, farm and non-farm livelihoods in the southern states of India.
 
-### Marketing Project Manager @[Microsoft](https://microsoft.net)
+### Senior Executive - Program @[Tata Trusts](https://www.tatatrusts.org/)
 
-`Sept 2019 - Sept 2020`
+`Sept 2022 - Sept 2024`
 
-Participation in the implementation of Microsoft France’s marketing plan for the Education audience (Primary/Secondary and Higher Education) in order to **develop the network of teachers and partner schools.**
+To be added
 
 ### Digital Project Manager @[Havana Club International](https://havana-club.com)
 
-`Jan 2019 - Jul 2019`
+`Jan 2018 - Aug 2022`
 
-As part of the International Marketing team and under the responsibility of the Senior Brand Manager, I participate in the launch and follow-up of **international digital projects** for Havana Club International, a subsidiary of Pernod Ricard group.
+To be added
 
 ### Digital Project Manager @[Pernod Ricard France](https://www.pernod-ricard.com/fr/nos-marches/france)
 
-`Jul 2018 - Jan 2019`
+`Jun 2016 - Dec 2017`
 
-Support to the Digital Manager on the deployment of the **digital strategy of the Havana Club brand on the French market.**
+To be added
 
 ## Side Project
 
-### Cofounder & Project Manager @[Fabrilab](https://fabrilab.net)
+### Cofounder & Editor @[Public Administration Archive](https://pubad.substack.com/)
 
-`Sept 2017 - Today`
+`July 2022 - Today`
 
-Creation of a communication agency in the form of a micro-enterprise. Fabrilab supports self-employed and small businesses in their **digital transition.**
-
-- Main clients : TotalEnergies, Solis International, SCEBOG (1st agricultural cooperative of Guyana)...
+To be added
+350+ Subscribers (as of Nov 2024)
 
 ## Education
 
-### Master in Management @[Excelia BS](https://www.excelia-group.com)
+### Master of Business Administration @[SSSIHL](https://www.sssihl.edu.in/)
 
-`Sept 2016 - Sept 2020`
+`Jun 2014 - Apr 2016`
 
 Member of the «Conférence des Grandes Ecoles», AMBA, AACSB, EQUIS and EPAS accredited. Graduate of a master in management, specialising in Marketing & Brand Management.
 
